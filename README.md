@@ -10,7 +10,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-### 🌱 Sobre mim
+### Perfil
 
 🎓 Estudante de **Engenharia de Software**<br>
 com foco em **desenvolvimento web**
@@ -23,7 +23,7 @@ pela faculdade e por cursos online
 </td>
 <td width="50%" align="center" valign="middle">
 
-### 🛠️ Tecnologias
+### 🛠️ Conhecimentos
 
 **Conheço:**<br>
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML e CSS" />
@@ -36,7 +36,7 @@ pela faculdade e por cursos online
 <tr>
 <td colspan="2" align="center">
 
-### 📊 Estatísticas
+### 📊 Informações do Git
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=DevEmide&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmide&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
@@ -46,7 +46,7 @@ pela faculdade e por cursos online
 <tr>
 <td colspan="2" align="center">
 
-### 📫 Contato
+### 📫 Contato:
 
 <a href="[https://linkedin.com/in/DevEmide](https://www.linkedin.com/in/marialimapereira/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:marialima020208@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
