@@ -25,10 +25,10 @@ pela faculdade e por cursos online
 
 ### 🛠️ Tecnologias
 
-**Conheço**<br>
+**Conheço:**<br>
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML e CSS" />
 
-**Aprendendo**<br>
+**Aprendendo:**<br>
 <img src="https://skillicons.dev/icons?i=js,py,sqlite,java&theme=dark" alt="JavaScript, Python, SQL e Java" />
 
 </td>
