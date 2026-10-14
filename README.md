@@ -10,7 +10,7 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-### Perfil
+### 👤 Perfil
 
 🎓 Estudante de **Engenharia de Software**<br>
 com foco em **desenvolvimento web**
@@ -39,7 +39,7 @@ pela faculdade e por cursos online
 ### 📊 Informações do Git
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=DevEmide&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmide&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmide&layout=compact&theme=tokyonight&hide_border=true" alt="Python" />
 
 </td>
 </tr>
