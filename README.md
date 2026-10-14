@@ -1,16 +1,129 @@
-<h1 align="center">Hello World, I'm Emide, be very welcome 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end;Apaixonada+por+código+e+design;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-</p>
+# 💜 Emide 💙
+
+### 🌐 Developer in training
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hello+World%2C+I'm+Emide%2C+be+very+welcome!;Estudante+de+Engenharia+de+Software;Focada+em+desenvolvimento+web" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,js,css,bootstrap,laravel&theme=dark" alt="Tecnologias" />
-</p>
+## 👤 Sobre mim
+
+Sou estudante de programação e me identifiquei com a área de desenvolvimento.
+
+Atualmente meu foco está em **desenvolvimento de websites**, estudando através da faculdade e de cursos online.
+
+🎯 Meu objetivo é me aprofundar na área e trabalhar como desenvolvedora.
+
+</td>
+<td width="50%" valign="top">
+
+## 📋 Perfil
+
+| | |
+|---|---|
+| ⭐ **Nível** | Iniciante |
+| 💻 **Área** | Web Development |
+| 📚 **Faculdade** | Engenharia de Software |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+## 💻 Tecnologias
+
+### ⚡ Conheço
+
+<img src="https://img.shields.io/badge/HTML5-7B2CBF?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white">
+
+### 📚 Estou aprendendo
+
+<img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3A86FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=sqlite&logoColor=white">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🎯 Objetivos
+
+- 💻 Me aprofundar em desenvolvimento Web
+- 📚 Aprender novas tecnologias
+- 🧩 Criar projetos próprios
+- 🌱 Evoluir constantemente
+- 🚀 Trabalhar como desenvolvedora
+
+</td>
+<td width="50%" valign="top">
+
+## 🧭 Atualmente estudando
+
+```text
+JavaScript
+    ↓
+  Java
+    ↓
+ Python
+    ↓
+  SQL
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 💜 Minhas Skills
+
+**HTML**
+🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **90%**
+
+**CSS**
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ **80%**
+
+</td>
+<td width="50%" valign="top">
+
+## 📚 Aprendendo
+
+**JavaScript**
+🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **50%**
+
+**Python**
+🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ **30%**
+
+**SQL**
+🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **30%**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -24,15 +137,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEmide&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 🌱 Sobre mim
-
-- 🔭 Atualmente trabalhando em projetos com **Vue.js** e **Laravel**
-- 📚 Estudando e evoluindo sempre em front-end e design de interfaces
-- 💬 Pergunte-me sobre **JavaScript, CSS e Bootstrap**
-- ⚡ Curiosidade: adoro transformar ideias em interfaces bonitas
 
 ---
 
