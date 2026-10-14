@@ -48,7 +48,7 @@ pela faculdade e por cursos online
 
 ### 📫 Contato:
 
-<a href="[https://linkedin.com/in/DevEmide](https://www.linkedin.com/in/marialimapereira/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/marialimapereira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:marialima020208@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </td>
