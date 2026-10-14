@@ -1,1 +1,44 @@
-<div align="center"> # 💜 Maria Eduarda L. Pereira 💙 ### 🎮  • 🌐 Developer in training </div> --- <table> <tr> <td width="50%" valign="top"> ## 👤 Sobre mim Sou estudante de programação e me identifiquei com a área de desenvolvimento. Atualmente meu foco está em **desenvolvimento de websites**, estudando através da faculdade e de cursos online. 🎯 Meu objetivo é me aprofundar na área e trabalhar como desenvolvedora. </td> <td width="50%" valign="top"> ## 🎮 Trainer Profile | | | |---|---| | ⭐ **Nível** | Iniciante | | 💻 **Área** | Web Development | | 📚 **Faculdade** | Engenharia de Software | </td> </tr> </table> <br> <table> <tr> <td width="100%" align="center"> ## 💻 Tecnologias ### ⚡ Conheço <img src="https://img.shields.io/badge/HTML5-7B2CBF?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white"> ### 📚 Estou aprendendo <img src="https://img.shields.io/badge/JavaScript-7B2CBF?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3A86FF?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=sqlite&logoColor=white"> </td> </tr> </table> <br> <table> <tr> <td width="50%" valign="top"> ## 🎯 Objetivos - 💻 Me aprofundar em desenvolvimento Web - 📚 Aprender novas tecnologias - 🧩 Criar projetos próprios - 🌱 Evoluir constantemente - 🚀 Trabalhar como desenvolvedora </td> <td width="50%" valign="top"> ## 💤 Mascote <div align="center"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="120"> ### SNORLAX 💤 **Tipo:** Normal <br> ⭐ **Parceiro:** Developer Trainer </div> </td> </tr> </table> <br> <table> <tr> <td width="50%" valign="top"> ## 💜 Minhas Skills **HTML** 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ **90%** **CSS** 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ **80%** </td> <td width="50%" valign="top"> ## 📚 Aprendendo **JavaScript** 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ **50%** **Python** 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ **30%** **SQL** 🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜ **30%** </td> </table> <div align="center"> <td width="50%" valign="top"> ## 📚 Atualmente estudando ```text JavaScript ↓ Java ↓ Python ↓ SQL
+<h1 align="center">Hello World, I'm Lash, be very welcome 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-end;Apaixonada+por+código+e+design;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,css,bootstrap,laravel&theme=dark" alt="Tecnologias" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌱 Sobre mim
+
+- 🔭 Atualmente trabalhando em projetos com **Vue.js** e **Laravel**
+- 📚 Estudando e evoluindo sempre em front-end e design de interfaces
+- 💬 Pergunte-me sobre **JavaScript, CSS e Bootstrap**
+- ⚡ Curiosidade: adoro transformar ideias em interfaces bonitas
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
